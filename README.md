@@ -6,7 +6,7 @@
 ## 🧠 사용 기술
 - flutter
 - spring boot
-- fast api
+- fastAPI
 - my sql
 
 ## ⚙ 구현 내용
